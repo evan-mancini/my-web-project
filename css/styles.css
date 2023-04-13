@@ -54,7 +54,8 @@ table {
   margin: 50px auto;
 }
 
-th, td {
+th,
+td {
   padding: 10px;
   text-align: center;
 }
